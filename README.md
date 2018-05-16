@@ -1,0 +1,3 @@
+# This book provides guidances you may need to successuflly adopt IBM Cloud.
+
+First thing first. If you are familiar with either AWS or Azure and looking for a specific cloud capability in the IBM Cloud, please go through the [Cloud Services Comparision eBook](http://www.google.com) which maps each of the cloud capabilities to AWS, Azure and IBM.  
